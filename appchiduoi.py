@@ -157,7 +157,7 @@ STATIONS = [
 "3": "cơ bụng chân",
 "4": "cơ gan chân",
 "5": "cơ chày sau",
-"6": "cơ gấp ngón cái dài,
+"6": "cơ gấp ngón cái dài",
 "7": "cơ gấp các ngón chân dài",
 "8": "cơ khoeo"
         }
