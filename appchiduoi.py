@@ -79,7 +79,7 @@ STATIONS = [
     },
     {
 "name": "Trạm 5",
-"image": "6.png",
+"image": "5.png",
 "answers": {
 "1": "cơ mông lớn",
 "2": "cơ mông nhỡ",
