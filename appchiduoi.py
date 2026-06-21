@@ -97,12 +97,12 @@ STATIONS = [
 "answers": {
 "1": "tm đùi",
 "2": "mạch bh bẹn",
-"3": "khớp mụ",
+"3": "khớp mu",
 "4": "cơ khép dài",
 "5": "đm đùi",
 "6": "cơ may",
 "7": "dc bẹn",
-"8": "tj đùi"
+"8": "tk đùi"
         }
     },
     {
